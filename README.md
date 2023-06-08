@@ -7,7 +7,7 @@ making it possible to build itineraries, set sail and dock at subsequent ports. 
 like keeping track of passengers coming aboard and disembarking.  
 
 
-Visit the [next iteration](https://github.com/HollyJM81/cruise-ships-gui) to see the next iteration which renders the ports and ships in the browser :eyes:
+Visit the [next iteration](https://github.com/HollyJM81/cruise-ships-gui) to see this with a GUI, which renders the ports and ships in the browser :eyes:
 
 # Methods and working practices used:
 
